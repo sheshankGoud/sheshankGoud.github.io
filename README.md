@@ -1,23 +1,110 @@
-# Sheshank Goud — Python Developer Portfolio
+# Sheshank Goud | Python Developer
 
-A responsive personal portfolio website built with HTML, CSS, and JavaScript.
+### Building practical solutions with Python, AI & Machine Learning
 
-## Run locally
-1. Extract the project ZIP.
-2. Open `index.html` in a browser, or use the VS Code Live Server extension.
+I'm an **MCA graduate** passionate about software development, Python programming, and exploring how AI and Machine Learning can solve practical problems. I enjoy learning new technologies, developing projects, and continuously improving my problem-solving skills.
 
-## Before publishing
-- Replace each project link with the exact GitHub repository URL.
-- Add your college name, graduation year, internship title and dates.
-- Add your professional email.
-- Remove any technologies you have not used or cannot discuss confidently.
-- Confirm project descriptions reflect your own work and retain original credits where applicable.
+🌐 **[Explore My Portfolio](https://sheshankgoud.github.io/)**
 
-## Deploy with GitHub Pages
-1. Create a public repository (for example `sheshankGoud.github.io`) or a repository for your portfolio.
-2. Upload `index.html`, `style.css`, `script.js`, and this README to the repository root.
-3. Open repository **Settings → Pages**.
-4. Under build and deployment, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-5. After GitHub Pages publishes the site, copy the public URL into LinkedIn's portfolio/website field.
+[LinkedIn](https://www.linkedin.com/in/sheshank-goud-060157378/) · [GitHub](https://github.com/sheshankGoud)
 
-This is a static website and does not require a backend.
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Master of Computer Applications (MCA) graduate
+- 🐍 Interested in Python development and software engineering
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🛠️ Completed an internship at R Techno Solutions
+- 🚀 Building practical projects to strengthen my technical skills
+- 🎯 Seeking entry-level opportunities in Python and software development
+
+I believe in learning by building, improving through feedback, and writing software that is useful, understandable, and maintainable.
+
+---
+
+## 🚀 Featured Projects
+
+### 01. Traffic Rules Violation Detection
+
+A computer-vision-based project exploring the detection of traffic rule violations using Python and related technologies.
+
+**Technologies:** Python · OpenCV · PyQt5 · SQLite
+
+- Explores computer vision concepts for traffic-related applications.
+- Demonstrates the integration of a Python application with a database.
+- Provides an opportunity to study practical image-processing workflows.
+
+🔗 **Repository:** [Add the original or authorized project repository URL]
+
+*Attribution: Preserve credit to the original developers and comply with the repository's license.*
+
+### 02. AI/ML Stock Screening System
+
+An experimental project exploring data processing and machine learning techniques for stock screening.
+
+**Technologies:** [Add the actual libraries and tools used]
+
+- Explores processing market-related data for analysis.
+- Investigates the application of machine learning to stock-screening workflows.
+- Supports experimentation with data features, model evaluation, and analytical methods where implemented.
+
+🔗 **Repository:** [Add your actual project repository URL]
+
+*This is a technical project, not a guarantee of investment performance or financial returns.*
+
+---
+
+## 🧰 Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Programming | Python |
+| Database | SQL, SQLite |
+| Computer Vision | OpenCV |
+| GUI Development | PyQt5 |
+| Web Fundamentals | HTML, CSS, JavaScript |
+| Tools | Git, GitHub, Visual Studio Code |
+| AI/ML | Machine learning concepts and project experimentation |
+
+*Keep this list aligned with the technologies you have actually used and can discuss confidently.*
+
+---
+
+## 💼 Experience
+
+**Internship — R Techno Solutions**
+
+Gained exposure to technical project work and the practical application of software development concepts.
+
+[Add your official internship title, dates, and specific responsibilities if applicable.]
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**
+
+[College Name] · [Graduation Year]
+
+---
+
+## 🌐 My Portfolio
+
+My personal portfolio is built with HTML, CSS, and JavaScript and deployed using GitHub Pages.
+
+**[Visit My Live Portfolio →](https://sheshankgoud.github.io/)**
+
+---
+
+## 📫 Let's Connect
+
+I'm open to connecting with developers, learning from the tech community, and exploring suitable entry-level opportunities.
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sheshank-goud-060157378/)
+- 💻 GitHub: [Explore my repositories](https://github.com/sheshankGoud)
+- 🌐 Portfolio: [View my website](https://sheshankgoud.github.io/)
+
+---
+
+*Learning continuously. Building practically. Growing as a developer.*
