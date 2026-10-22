@@ -35,7 +35,7 @@ A computer-vision-based project exploring the detection of traffic rule violatio
 - Demonstrates the integration of a Python application with a database.
 - Provides an opportunity to study practical image-processing workflows.
 
-🔗 **Repository:** [Add the original or authorized project repository URL]
+🔗 **Repository:** https://github.com/sheshankGoud/Traffic-rules-violation-detection
 
 *Attribution: Preserve credit to the original developers and comply with the repository's license.*
 
@@ -43,13 +43,22 @@ A computer-vision-based project exploring the detection of traffic rule violatio
 
 An experimental project exploring data processing and machine learning techniques for stock screening.
 
-**Technologies:** [Add the actual libraries and tools used]
-
+**Technologies:** fyers-apiv3==3.1.16
+joblib==1.5.3
+numpy==2.5.2
+pandas==3.0.5
+scikit-learn==1.9.0
+scipy==1.18.1
+requests==2.31.0
+websocket-client==1.6.1
+python-dateutil==2.9.0.post0
+streamlit==1.62.0
+matplotlib==3.11.1
 - Explores processing market-related data for analysis.
 - Investigates the application of machine learning to stock-screening workflows.
 - Supports experimentation with data features, model evaluation, and analytical methods where implemented.
 
-🔗 **Repository:** [Add your actual project repository URL]
+🔗 **Repository:** https://github.com/sheshankGoud/SSG-AI-ML-Trading-System
 
 *This is a technical project, not a guarantee of investment performance or financial returns.*
 
@@ -73,19 +82,17 @@ An experimental project exploring data processing and machine learning technique
 
 ## 💼 Experience
 
-**Internship — R Techno Solutions**
+**Internship — R Techno Solutions | 2025**
 
 Gained exposure to technical project work and the practical application of software development concepts.
-
-[Add your official internship title, dates, and specific responsibilities if applicable.]
+Worked on technical projects involving Python programming and data-related concepts.Gained practical exposure to software development workflows and project implementation.Practiced problem-solving, debugging, and applying programming concepts to project requirements.Add specific tools, tasks, and measurable results only where they reflect work you actually completed.
 
 ---
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**
-
-[College Name] · [Graduation Year]
+Aurora's PG college(MCA), Ramanthapur · 2026
 
 ---
 
